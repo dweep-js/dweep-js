@@ -15,3 +15,6 @@ I also mainly post sxhool and personal projects currently.</p>
 
 # ✍️ Things I currently know/am learning:
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Gleam](https://img.shields.io/badge/Gleam-%23FFAFF3?style=for-the-badge&logo=gleam&logoColor=black)
+
+
+“Just take each step you’re able to manage, persevere little by little, and build it up that way.” 
