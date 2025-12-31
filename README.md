@@ -1,4 +1,4 @@
-# Dweep
+<h1 align="center">Dweep</h1>
 
 <sub>I do not have a plan I just do what I want to</sub>
 
