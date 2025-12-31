@@ -10,7 +10,7 @@ I also mainly post sxhool and personal projects currently.</p>
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ryuzaki.mmm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:exisitng1.001@gmail.com) 
 
 # ✍️ Things I currently know/am learning::
