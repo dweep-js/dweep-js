@@ -18,3 +18,5 @@ I also mainly post sxhool and personal projects currently.</p>
 
 
 >“Just take each step you’re able to manage, persevere little by little, and build it up that way.” 
+
+  <img src="https://i.pinimg.com/736x/c4/34/24/c4342471490ba2e15979ba38e0cb32c7.jpg"  />
