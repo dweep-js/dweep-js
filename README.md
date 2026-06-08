@@ -2,7 +2,7 @@
 
 <p align="center"  >I use arch btw😼️</p>
 
-<p>I am subhadeep. I am trying to learn a few things, I hope to gety better as time goes on.
+<p>I am subhadeep. I am trying to learn a few things, I hope to get better as time goes on.
 </p>
 
 # 🌐 Socials:
