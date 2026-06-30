@@ -2,7 +2,7 @@
 
 <p align="center"  >I use arch btw😼️</p>
 
-<p>I am subhadeep. I am trying to learn a few things, I hope to get better as time goes on.
+<p>Hi, I'm Subhadeep. I enjoy building web applications, experimenting with Rust and Go, and contributing to open source. I'm always learning something new and trying to write cleaner code.
 </p>
 
 # 🌐 Socials:
