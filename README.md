@@ -33,8 +33,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dweep-js/dweep-js/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/dweep-js/dweep-js/output/github-contribution-grid-snake.svg">
 </picture>
-<p align="center">
-  <img src="https://i.pinimg.com/736x/c4/34/24/c4342471490ba2e15979ba38e0cb32c7.jpg" alt="Lain" width="300"/>
-  <br>
   <sub>Let's all love Lain</sub>
 </p>
