@@ -19,6 +19,7 @@
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Gleam](https://img.shields.io/badge/Gleam-%23FFAFF3?style=for-the-badge&logo=gleam&logoColor=black)
+![Codewars](https://codewars-readme-stats.herokuapp.com/api/v1/?username=dweep-js)
 
 ---
 
